@@ -1,0 +1,167 @@
+[
+    {
+        "name": "Accounting",
+        "abbreviation": "Accounting",
+        "link": "accounting",
+        "color": "#A93226",
+        "backgroundColor": "#E6B0AA",
+        "iconName": "Accounting",
+        "permissionCode": "APP_ACCOUNTING",
+        "isInactive": false,
+        "_id": "6598724afd0dc65167ef9071"
+    },
+    {
+        "name": "Sales",
+        "abbreviation": "Sales",
+        "link": "sales",
+        "color": "#D4AC0D",
+        "backgroundColor": "#F9E79F",
+        "iconName": "Sales",
+        "permissionCode": "APP_SALES",
+        "isInactive": false,
+        "_id": "6598724afd0dc65167ef9072"
+    },
+    {
+        "name": "CRM",
+        "abbreviation": "CRM",
+        "link": "crm",
+        "color": "#BA4A00",
+        "backgroundColor": "#EDBB99",
+        "iconName": "CRM",
+        "permissionCode": "APP_CRM",
+        "isInactive": false,
+        "_id": "6598724afd0dc65167ef9073"
+    },
+    {
+        "name": "Inventory",
+        "abbreviation": "Inventory",
+        "link": "inventory",
+        "color": "#2E86C1",
+        "backgroundColor": "#AED6F1",
+        "iconName": "Inventory",
+        "permissionCode": "APP_INVENTORY",
+        "isInactive": false,
+        "_id": "6598724afd0dc65167ef9074"
+    },
+    {
+        "name": "Purchase",
+        "abbreviation": "Purchase",
+        "link": "purchase",
+        "color": "#BA4A00",
+        "backgroundColor": "#EDBB99",
+        "iconName": "Purchase",
+        "permissionCode": "APP_PURCHASE",
+        "isInactive": false,
+        "_id": "6598724afd0dc65167ef9075"
+    },
+    {
+        "name": "Point of Sale",
+        "abbreviation": "POS",
+        "link": "pos",
+        "color": "#D68910",
+        "backgroundColor": "#FAD7A0",
+        "iconName": "POS",
+        "permissionCode": "APP_POINT_OF_SALE",
+        "isInactive": false,
+        "_id": "6598724afd0dc65167ef9076"
+    },
+    {
+        "name": "Project",
+        "abbreviation": "Project",
+        "link": "project",
+        "color": "#2E86C1",
+        "backgroundColor": "#AED6F1",
+        "iconName": "Project",
+        "permissionCode": "APP_PROJECT",
+        "isInactive": false,
+        "_id": "6598724afd0dc65167ef9077"
+    },
+    {
+        "name": "Manufacturing",
+        "abbreviation": "Manufacturing",
+        "link": "manufacturing",
+        "color": "#17A589",
+        "backgroundColor": "#A3E4D7",
+        "iconName": "Manufacturing",
+        "permissionCode": "APP_MANUFACTURING",
+        "isInactive": false,
+        "_id": "6598724afd0dc65167ef9078"
+    },
+    {
+        "name": "Employee",
+        "abbreviation": "Employee",
+        "link": "employee",
+        "color": "#7D3C98",
+        "backgroundColor": "#D2B4DE",
+        "iconName": "Employee",
+        "permissionCode": "APP_EMPLOYEE",
+        "isInactive": false,
+        "_id": "6598724afd0dc65167ef9079"
+    },
+    {
+        "name": "Flex Connect",
+        "abbreviation": "Flex Connect",
+        "link": "flexconnect",
+        "color": "#CA6F1E",
+        "backgroundColor": "#F5CBA7",
+        "iconName": "Connect",
+        "permissionCode": "APP_FLEX_CONNECT",
+        "isInactive": false,
+        "_id": "6598724afd0dc65167ef907a"
+    },
+    {
+        "name": "Custom App",
+        "abbreviation": "Custom App",
+        "link": "customapp",
+        "color": "#2E4053",
+        "backgroundColor": "#AEB6BF",
+        "iconName": "Custom App",
+        "permissionCode": "APP_CUSTOM_APP",
+        "isInactive": false,
+        "_id": "6598724afd0dc65167ef907b"
+    },
+    {
+        "name": "PMC Lite",
+        "abbreviation": "PMC Lite",
+        "link": "pmclite",
+        "color": "#d92357",
+        "backgroundColor": "#f9dae3",
+        "iconName": "PMC Lite",
+        "permissionCode": "APP_PMC_LITE",
+        "isInactive": false,
+        "_id": "6598724afd0dc65167ef907c"
+    },
+    {
+        "name": "PCT Secure",
+        "abbreviation": "PCT Secure",
+        "link": "pctsecure",
+        "color": "#138D75",
+        "backgroundColor": "#A2D9CE",
+        "iconName": "PCT Secure",
+        "permissionCode": "APP_PCT_SECURE",
+        "isInactive": false,
+        "_id": "6598724afd0dc65167ef907d"
+    },
+    {
+        "name": "PCT OCR",
+        "abbreviation": "PCT OCR",
+        "link": "pctocr",
+        "color": "#2471A3",
+        "backgroundColor": "#A9CCE3",
+        "iconName": "PCT OCR",
+        "permissionCode": "APP_PCT_OCR",
+        "isInactive": false,
+        "_id": "6598724afd0dc65167ef907e"
+    },
+    {
+        "name": "Settings",
+        "abbreviation": "Settings",
+        "link": "settings",
+        "color": "#CB4335",
+        "backgroundColor": "#F5B7B1",
+        "iconName": "Settings",
+        "permissionCode": "APP_SETTINGS",
+        "isInactive": false,
+        "_id": "6598864d64cca94b7ca6d729"
+    }
+]

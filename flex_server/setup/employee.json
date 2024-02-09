@@ -1,0 +1,19 @@
+[
+    {
+        "_id": "6590a5be82a50bd0ddfbeb9d",
+        "flexId": "1002",
+        "giveAccess": true,
+        "firstName": "Shiv",
+        "lastName": "Kumar Singh",
+        "name": "Shiv Kumar Singh",
+        "email": "sksingh@paapri.com",
+        "password": "Flex@2024",
+        "passwordConfirm": "Flex@2024",
+        "roles": [
+            {
+                "name": "Administrator",
+                "id": "659879daf6875e35c882e5de"
+            }
+        ]
+    }
+]

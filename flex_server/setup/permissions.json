@@ -1,0 +1,114 @@
+[
+    {
+        "name": "Flex Connect",
+        "description": "",
+        "code": "DOC_FLEX_CONNECT",
+        "isVisibleToClient": true,
+        "isInactive": false,
+        "_id": "659865c28ae3b0b3af43c448"
+    },
+    {
+        "name": "Custom App Type",
+        "description": "",
+        "code": "DOC_CUSTOM_APP_TYPE",
+        "isVisibleToClient": true,
+        "isInactive": false,
+        "_id": "659865c28ae3b0b3af43c449"
+    },
+    {
+        "name": "Employee",
+        "description": "",
+        "code": "DOC_EMPLOYEE",
+        "isVisibleToClient": true,
+        "isInactive": false,
+        "_id": "659865c28ae3b0b3af43c44a"
+    },
+    {
+        "name": "Class",
+        "description": "",
+        "code": "DOC_CLASS",
+        "isVisibleToClient": true,
+        "isInactive": false,
+        "_id": "659865c28ae3b0b3af43c44b"
+    },
+    {
+        "name": "Department",
+        "description": "",
+        "code": "DOC_DEPARTMENT",
+        "isVisibleToClient": true,
+        "isInactive": false,
+        "_id": "659865c28ae3b0b3af43c44c"
+    },
+    {
+        "name": "Location",
+        "description": "",
+        "code": "DOC_LOCATION",
+        "isVisibleToClient": true,
+        "isInactive": false,
+        "_id": "659865c28ae3b0b3af43c44d"
+    },
+    {
+        "name": "Job Position",
+        "description": "",
+        "code": "DOC_JOB_POSITION",
+        "isVisibleToClient": true,
+        "isInactive": false,
+        "_id": "659865c28ae3b0b3af43c44e"
+    },
+    {
+        "name": "Project",
+        "description": "",
+        "code": "DOC_PROJECT",
+        "isVisibleToClient": true,
+        "isInactive": false,
+        "_id": "659865c28ae3b0b3af43c44f"
+    },
+    {
+        "name": "Task",
+        "description": "",
+        "code": "DOC_TASK",
+        "isVisibleToClient": true,
+        "isInactive": false,
+        "_id": "659865c28ae3b0b3af43c450"
+    },
+    {
+        "name": "Task Entry",
+        "description": "",
+        "code": "DOC_TASK_ENTRY",
+        "isVisibleToClient": true,
+        "isInactive": false,
+        "_id": "659865c28ae3b0b3af43c451"
+    },
+    {
+        "name": "Role",
+        "description": "",
+        "code": "DOC_ROLE",
+        "isVisibleToClient": false,
+        "isInactive": false,
+        "_id": "659865c28ae3b0b3af43c452"
+    },
+    {
+        "name": "Navigation Center",
+        "description": "",
+        "code": "DOC_NAVIGATION_CENTER",
+        "isVisibleToClient": false,
+        "isInactive": false,
+        "_id": "659865c28ae3b0b3af43c453"
+    },
+    {
+        "name": "Navigation Category",
+        "description": "",
+        "code": "DOC_NAVIGATION_CATEGORY",
+        "isVisibleToClient": false,
+        "isInactive": false,
+        "_id": "659865c28ae3b0b3af43c454"
+    },
+    {
+        "name": "Navigation Link",
+        "description": "",
+        "code": "DOC_NAVIGATION_LINK",
+        "isVisibleToClient": false,
+        "isInactive": false,
+        "_id": "659865c28ae3b0b3af43c455"
+    }
+]

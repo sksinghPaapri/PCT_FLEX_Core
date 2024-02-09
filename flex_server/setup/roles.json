@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Administrator",
+        "appPermissions": [
+            {
+                "id": "6598724afd0dc65167ef9079",
+                "name": "Employee",
+                "code": "APP_EMPLOYEE",
+                "_id": "659879daf6875e35c882e5df"
+            }
+        ],
+        "permissions": [
+            {
+                "id": "659865c28ae3b0b3af43c448",
+                "name": "Flex Connect",
+                "code": "DOC_FLEX_CONNECT",
+                "level": 3,
+                "_id": "659879daf6875e35c882e5e0"
+            },
+            {
+                "id": "659865c28ae3b0b3af43c449",
+                "name": "Custom App Type",
+                "code": "DOC_CUSTOM_APP_TYPE",
+                "level": 3,
+                "_id": "659879daf6875e35c882e5e1"
+            },
+            {
+                "id": "659865c28ae3b0b3af43c44a",
+                "name": "Employee",
+                "code": "DOC_EMPLOYEE",
+                "level": 3,
+                "_id": "659879daf6875e35c882e5e2"
+            },
+            {
+                "id": "659865c28ae3b0b3af43c44b",
+                "name": "Class",
+                "code": "DOC_CLASS",
+                "level": 3,
+                "_id": "659879daf6875e35c882e5e3"
+            },
+            {
+                "id": "659865c28ae3b0b3af43c44c",
+                "name": "Department",
+                "code": "DOC_DEPARTMENT",
+                "level": 3,
+                "_id": "659879daf6875e35c882e5e4"
+            },
+            {
+                "id": "659865c28ae3b0b3af43c44d",
+                "name": "Location",
+                "code": "DOC_LOCATION",
+                "level": 3,
+                "_id": "659879daf6875e35c882e5e5"
+            },
+            {
+                "id": "659865c28ae3b0b3af43c44e",
+                "name": "Job Position",
+                "code": "DOC_JOB_POSITION",
+                "level": 3,
+                "_id": "659879daf6875e35c882e5e6"
+            },
+            {
+                "id": "659865c28ae3b0b3af43c448",
+                "name": "Flex Connect",
+                "code": "DOC_FLEX_CONNECT",
+                "level": 3,
+                "_id": "659879daf6875e35c882e5e7"
+            },
+            {
+                "id": "659865c28ae3b0b3af43c44f",
+                "name": "Project",
+                "code": "DOC_PROJECT",
+                "level": 3,
+                "_id": "659879daf6875e35c882e5e8"
+            },
+            {
+                "id": "659865c28ae3b0b3af43c450",
+                "name": "Task",
+                "code": "DOC_TASK",
+                "level": 3,
+                "_id": "659879daf6875e35c882e5e9"
+            },
+            {
+                "id": "659865c28ae3b0b3af43c451",
+                "name": "Task Entry",
+                "code": "DOC_TASK_ENTRY",
+                "level": 3,
+                "_id": "659879daf6875e35c882e5ea"
+            },
+            {
+                "id": "659865c28ae3b0b3af43c452",
+                "name": "Role",
+                "code": "DOC_ROLE",
+                "level": 3,
+                "_id": "659879daf6875e35c882e5eb"
+            },
+            {
+                "id": "659865c28ae3b0b3af43c453",
+                "name": "Navigation Center",
+                "code": "DOC_NAVIGATION_CENTER",
+                "level": 3,
+                "_id": "659879daf6875e35c882e5ec"
+            },
+            {
+                "id": "659865c28ae3b0b3af43c454",
+                "name": "Navigation Category",
+                "code": "DOC_NAVIGATION_CATEGORY",
+                "level": 3,
+                "_id": "659879daf6875e35c882e5ed"
+            },
+            {
+                "id": "659865c28ae3b0b3af43c455",
+                "name": "Navigation Link",
+                "code": "DOC_NAVIGATION_LINK",
+                "level": 3,
+                "_id": "659879daf6875e35c882e5ee"
+            }
+        ],
+        "isInactive": false,
+        "_id": "659879daf6875e35c882e5de"
+    }
+]
